@@ -4,6 +4,7 @@
 //782 -> 8
 //918 -> 1
 
+Console.WriteLine("Программа которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.");
 int ReadInt(string message)
 {
     Console.Write(message);
